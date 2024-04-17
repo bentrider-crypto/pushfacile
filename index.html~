@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+ <html>
+ <head> <title>Amazon web services les basics</title> 
+</head>
+ <body>
+
+<div>
+  <p>Pourquoi ce site web</p>
+  <ul>
+    <li>Amazon web services</li>
+    <li>Objectifs de mes formations</li>
+    <li><a href="franck.estingoy@gmail.com">Envoyer Email</a></li>
+    <li>Autres projets en cours ...</li>
+	</ul>
+</div>
+
+<table>
+<tr>
+<td><img src="images/aws-accueil.png" width="375" height="210" alt="accueil"></td>
+<td><img src="images/s3-url.png" width="375" height="210" alt="adresse website"></td>
+</tr>
+<tr>
+<td><img src="images/completion.png" width="375" height="210" alt="">AWS cli</td>
+<td><img src="images/S3.png" width="375" height="210" alt="S3"></td>
+</tr>
+</table>
+ 
+</body>
+ </html>
